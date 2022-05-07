@@ -4,13 +4,13 @@ import datetime
 import time
 import re
 
-api_key = "QV6C75GFGAKV9QJN"
+api_key = "INSERT KEY"
 
 
 
 reddit = praw.Reddit(
-    client_id="lUlZOUEW2WJ4Ig",
-    client_secret="exoIZ1cApRCHSbxD4AeKs0enyynPTA",
+    client_id="INSERT KEY",
+    client_secret="INSERT KEY",
     user_agent="<console:WALLSTREET: 1.0>",
 )
 
